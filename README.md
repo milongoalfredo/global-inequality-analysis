@@ -35,30 +35,25 @@ The goal is to understand the main drivers of inequality and how it evolves acro
 
 ## Project Structure
 
-global_inequality_analysis/
-│
-├── data/
-│ ├── raw/
-│ └── processed/
-│
-├── notebooks/
-│ ├── analysis.ipynb/
-│ └── data_cleaning.ipynb/
-│
-├── dashboard/
-│ ├── global_inequality_analysis.pbix
-│ └── global_inequality_analysis.pdf
-│
-├── docs/
-│ ├── project_brief.md
-│ └── key_insights.md
-│
-├── images/
-│ ├── correlation.png
-│ ├── dashboard_overview.png
-│ └── gini_vs_other_indicators.png
-│
-└── README.md
+- **`global_inequality_analysis/`**:
+  - **`data/`**:
+    - `processed`
+    - `raw`
+  - **`notebooks/`**:
+    - `analysis.ipynb`
+    - `data_cleaning.ipynb`
+  - **`dashboard/`**:
+    - `global_inequality_analysis.pbix`
+    - `global_inequality_analysis.pdf`
+  - **`docs/`**:
+    - `project_brief.md`
+    - `key_insights.md`
+  - **`images/`**:
+    - `correlation.png`
+    - `dashboard_overview.png`
+    - `gini_vs_other_indicators.png`
+- `README.md`
+
 
 
 ## How to Use
