@@ -52,7 +52,7 @@ The goal is to understand the main drivers of inequality and how it evolves acro
     - `correlation.png`
     - `dashboard_overview.png`
     - `gini_vs_other_indicators.png`
-- `README.md`
+  - `README.md`
 
 
 
